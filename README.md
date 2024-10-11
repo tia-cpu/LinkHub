@@ -486,4 +486,18 @@
 
 [Home | celestia.org](https://celestia.org/)
 
+
+中国人在迪拜求职的网站
+| 中文网站名称       | 网址                                                   |
+|-------------------|-------------------------------------------------------|
+| 迪拜求职信息网    | https://www.dubaiqqt.com/m/zhaopin/                  |
+| 迪拜华人招聘网    | http://find.dubairen.com/author/dubairenmomo/       |
+| 迪拜求职Facebook群 | https://www.facebook.com/groups/642019893044253/     |
+| 迪拜猎聘          | https://www.liepin.com/zpdibaizhaopin/               |
+| DHISS招聘平台     | https://dhiss.com/portal.php?mod=list&catid=9       |
+| JR海外招聘网      | https://jrhqzx.com/city/UAE/category-catid-4.html   |
+| OZMV招聘平台      | https://ozmv.com/index.php?mobile=no                  |
+| 中国人在线招聘    | https://www.chineseol.com/forum.php?mod=forumdisplay&fid=43&filter=typeid&typeid=197 |
+
+
  
